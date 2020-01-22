@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HaloDoc</string>
+    <string name="type_to_search_for_a_topic">Type to search for a topic</string>
+    <string name="failure">Some Failure occur</string>
+</resources>
