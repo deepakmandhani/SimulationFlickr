@@ -1,4 +1,4 @@
-package com.pankaj.halodoc.model
+package com.example.model
 
 data class Response<T, U>(
     var obj: T? = null,

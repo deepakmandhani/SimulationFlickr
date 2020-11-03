@@ -1,4 +1,4 @@
-package com.pankaj.halodoc
+package com.example
 
 import org.junit.Test
 
